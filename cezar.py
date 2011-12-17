@@ -1,5 +1,13 @@
 #!/usr/bin/env python
 
+"""
+Author: Marcin Matłaszek <mmatlaszek@gmail.com>
+License: GNU GPL v2
+
+"""
+
+
+
 import sys
 
 def isPrime(n):
